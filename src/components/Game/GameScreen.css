@@ -1,0 +1,133 @@
+.game-screen {
+    width: 100%;
+    height: 100vh;
+    background-color: #fce4ec;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1rem;
+    align-items: center;
+}
+
+.score-board {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--color-text);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.game-area {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.definition-box {
+    background-color: var(--color-red);
+    color: var(--color-white);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    text-align: center;
+    max-width: 80%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.definition-box:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
+
+.definition-text {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.modern-meaning {
+    font-size: 1rem;
+    font-style: italic;
+    opacity: 0.9;
+}
+
+.word-area {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.hint-area {
+    margin-right: auto;
+}
+
+.hint-button {
+    background-color: var(--color-gold);
+    color: var(--color-text);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.1s;
+    animation: pop 0.5s ease-out;
+}
+
+.hint-button:active {
+    transform: scale(0.95);
+}
+
+.icon-button {
+    background: none;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.icon-button:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Animations */
+@keyframes pop {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-5px);
+    }
+
+    75% {
+        transform: translateX(5px);
+    }
+}
