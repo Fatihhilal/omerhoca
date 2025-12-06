@@ -1,0 +1,16 @@
+id,oldWord,modernMeaning,definition,difficulty,duration
+1,GÖKÇE,"Güzel, hoş, sevimli","Eski Türkçede ""mavi"" anlamına da gelen, göze hoş görünen.",easy,30
+2,ESEN,"Sağlıklı, salim","Ruhsal ve bedensel olarak sağlıklı olma durumu.",easy,30
+3,BİLGE,"Alim, bilgili","Bilgili, iyi ahlaklı, olgun ve örnek kimse.",medium,45
+4,TAN,"Şafak vakti","Güneş doğmadan önceki alaca karanlık.",easy,20
+5,US,Akıl,"İnsanın düşünme yetisi, anlayış.",hard,20
+6,GÜZ,Sonbahar,"Yaz ile kış arasındaki mevsim.",easy,20
+7,YAZGI,Kader,"Tanrı'nın uygun gördüğü durum, alın yazısı.",medium,40
+8,KONUK,Misafir,"Bir yere veya birinin evine kısa bir süre için gelen kimse.",easy,30
+9,BETİK,"Kitap, mektup","Yazılı olan şey, kitap veya mektup.",hard,40
+10,DÖNENCE,Mevsim,"Yılın, iklim şartları bakımından farklılık gösteren dört bölümünden her biri.",medium,50
+11,TIN,Ruh,"Can, ruh, soluk.",hard,30
+12,YALINKILIÇ,"Tek başına","Yalnız başına, silahsız veya yardımsız.",medium,45
+13,OTACI,Hekim,"Bitkilerle tedavi yapan hekim.",medium,40
+14,AŞA,"Yemek","Yenen şeyler, yemek, gıda.",easy,25
+15,SAYRILIK,"Hastalık","Hasta olma durumu, sayrı olma.",medium,35
