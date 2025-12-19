@@ -14,3 +14,18 @@ id,oldWord,modernMeaning,definition,difficulty,duration
 13,OTACI,Hekim,"Bitkilerle tedavi yapan hekim.",medium,40
 14,AŞA,"Yemek","Yenen şeyler, yemek, gıda.",easy,25
 15,SAYRILIK,"Hastalık","Hasta olma durumu, sayrı olma.",medium,35
+16,EĞSİRAN,"SPATULA","Hamur kesmeye yarayan araç",hard,40
+17,KAYIŞ,"Kemer","Pantolonun düşmesini engelleyen eşya",medium,30
+18,GAFETE,"Domates,","Kırmızı, bir sebze",hard,45
+19,PEŞKİR,"Havlu","Elimizi, yüzümüzü yıkadıktan sonra kuruladığımız eşya",medium,30
+20,YONGA,Akılİnce tahta parçası,"Odundan veya tahtadan kopan parça",hard,40
+21,BALLE,Sonbahar,"Yaz ile kış arasındaki mevsim.",easy,20
+22,DALLE,Kader,"Tanrı'nın uygun gördüğü durum, alın yazısı.",medium,40
+23,BÜLÜÇ,Misafir,"Bir yere veya birinin evine kısa bir süre için gelen kimse.",easy,30
+24,GULİ,"Kitap, mektup","Yazılı olan şey, kitap veya mektup.",hard,40
+25,DÖNHARIM,Mevsim,"Yılın, iklim şartları bakımından farklılık gösteren dört bölümünden her biri.",medium,50
+26,PARDI,Ruh,"Can, ruh, soluk.",hard,30
+27,SIĞIRTMAÇ,"Tek başına","Yalnız başına, silahsız veya yardımsız.",medium,45
+28,YEMENİ,Hekim,"Bitkilerle tedavi yapan hekim.",medium,40
+29,KOSA,"Yemek","Yenen şeyler, yemek, gıda.",easy,25
+30,PONTUR,"Hastalık","Hasta olma durumu, sayrı olma.",medium,35
