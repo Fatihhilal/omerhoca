@@ -128,10 +128,6 @@ const LetterWheel: React.FC<LetterWheelProps> = ({ letters, onWordSubmit }) => {
                 );
             })}
 
-            {/* Display current word being formed */}
-            <div className="current-word">
-                {selectedIndices.map(i => letters[i]).join('')}
-            </div>
         </div>
     );
 };

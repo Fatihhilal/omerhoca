@@ -41,20 +41,3 @@
     color: var(--color-white);
     transform: scale(1.1);
 }
-
-.current-word {
-    position: absolute;
-    top: -40px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: var(--color-gold);
-    padding: 0.5rem 1rem;
-    border-radius: 10px;
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: var(--color-text);
-    min-height: 2.5rem;
-    min-width: 100px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-}

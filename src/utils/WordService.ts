@@ -10,6 +10,16 @@ export interface WordData {
     letters: string[];
 }
 
+// Fisher-Yates shuffle algoritması ile harfleri karıştır
+function shuffleArray<T>(array: T[]): T[] {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
 export class WordService {
     private static instance: WordService;
     private words: WordData[] = [];
@@ -38,7 +48,7 @@ export class WordService {
                             definition: row.definition,
                             difficulty: row.difficulty as 'easy' | 'medium' | 'hard',
                             duration: parseInt(row.duration, 10),
-                            letters: row.oldWord.toUpperCase().split('')
+                            letters: shuffleArray(row.oldWord.toUpperCase().split(''))
                         }));
                     console.log('Words loaded:', this.words.length);
                     resolve();
