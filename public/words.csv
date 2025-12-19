@@ -1,31 +1,62 @@
 id,oldWord,modernMeaning,definition,difficulty,duration
-1,GÖKÇE,"Güzel, hoş, sevimli","Eski Türkçede ""mavi"" anlamına da gelen, göze hoş görünen.",easy,30
+1,GÖKÇE,"Güzel, hoş, sevimli","Eski Türkçede 'mavi' anlamına da gelen, göze hoş görünen.",easy,30
 2,ESEN,"Sağlıklı, salim","Ruhsal ve bedensel olarak sağlıklı olma durumu.",easy,30
 3,BİLGE,"Alim, bilgili","Bilgili, iyi ahlaklı, olgun ve örnek kimse.",medium,45
 4,TAN,"Şafak vakti","Güneş doğmadan önceki alaca karanlık.",easy,20
-5,US,Akıl,"İnsanın düşünme yetisi, anlayış.",hard,20
-6,GÜZ,Sonbahar,"Yaz ile kış arasındaki mevsim.",easy,20
-7,YAZGI,Kader,"Tanrı'nın uygun gördüğü durum, alın yazısı.",medium,40
-8,KONUK,Misafir,"Bir yere veya birinin evine kısa bir süre için gelen kimse.",easy,30
+5,US,"Akıl","İnsanın düşünme yetisi, anlayış.",hard,20
+6,GÜZ,"Sonbahar","Yaz ile kış arasındaki mevsim.",easy,20
+7,YAZGI,"Kader","Tanrı'nın uygun gördüğü durum, alın yazısı.",medium,40
+8,KONUK,"Misafir","Bir yere veya birinin evine kısa bir süre için gelen kimse.",easy,30
 9,BETİK,"Kitap, mektup","Yazılı olan şey, kitap veya mektup.",hard,40
-10,DÖNENCE,Mevsim,"Yılın, iklim şartları bakımından farklılık gösteren dört bölümünden her biri.",medium,50
-11,TIN,Ruh,"Can, ruh, soluk.",hard,30
+10,DÖNENCE,"Mevsim","Yılın, iklim şartları bakımından farklılık gösteren dört bölümünden her biri.",medium,50
+11,TIN,"Ruh","Can, ruh, soluk.",hard,30
 12,YALINKILIÇ,"Tek başına","Yalnız başına, silahsız veya yardımsız.",medium,45
-13,OTACI,Hekim,"Bitkilerle tedavi yapan hekim.",medium,40
+13,OTACI,"Hekim","Bitkilerle tedavi yapan hekim.",medium,40
 14,AŞA,"Yemek","Yenen şeyler, yemek, gıda.",easy,25
 15,SAYRILIK,"Hastalık","Hasta olma durumu, sayrı olma.",medium,35
-16,EĞSİRAN,"SPATULA","Hamur kesmeye yarayan araç",hard,40
-17,KAYIŞ,"Kemer","Pantolonun düşmesini engelleyen eşya",medium,30
-18,GAFETE,"Domates,","Kırmızı, bir sebze",hard,45
-19,PEŞKİR,"Havlu","Elimizi, yüzümüzü yıkadıktan sonra kuruladığımız eşya",medium,30
-20,YONGA,Akılİnce tahta parçası,"Odundan veya tahtadan kopan parça",hard,40
-21,BALLE,Sonbahar,"Yaz ile kış arasındaki mevsim.",easy,20
-22,DALLE,Kader,"Tanrı'nın uygun gördüğü durum, alın yazısı.",medium,40
-23,BÜLÜÇ,Misafir,"Bir yere veya birinin evine kısa bir süre için gelen kimse.",easy,30
-24,GULİ,"Kitap, mektup","Yazılı olan şey, kitap veya mektup.",hard,40
-25,DÖNHARIM,Mevsim,"Yılın, iklim şartları bakımından farklılık gösteren dört bölümünden her biri.",medium,50
-26,PARDI,Ruh,"Can, ruh, soluk.",hard,30
-27,SIĞIRTMAÇ,"Tek başına","Yalnız başına, silahsız veya yardımsız.",medium,45
-28,YEMENİ,Hekim,"Bitkilerle tedavi yapan hekim.",medium,40
-29,KOSA,"Yemek","Yenen şeyler, yemek, gıda.",easy,25
-30,PONTUR,"Hastalık","Hasta olma durumu, sayrı olma.",medium,35
+16,EĞSİRAN,"Spatula","Hamur kesme aracı; hamuru bölgelerine ayırmaya yarayan düz, geniş uçlu araç.",hard,40
+17,DIDAĞAN,"Tava","Kızartma veya pişirme için kullanılan yayvan kap; tava.",easy,25
+18,PEŞKİR,"Havlu","El veya yüz kurulamak için kullanılan bez.",medium,30
+19,VELESBİT,"Bisiklet","İki tekerlekli, insan gücüyle hareket eden taşıt.",medium,35
+20,PONTUR,"Pantolon","Alt giysisi; belden aşağıyı örten, iki paçalı giysi.",medium,30
+21,GAFETE,"Domates","Kırmızı, sulu ve yenilebilen sebze; salata ve yemeklerde kullanılır.",easy,20
+22,KAYIŞ,"Kemer","Giysiyi, çantayı veya eşyanın sabit kalmasını sağlayan şerit; bel için kullanılan kemer.",medium,30
+23,YONGA,"İnce tahta parçası","Odun veya tahtadan kopmuş, ince levha benzeri parça.",hard,35
+24,BALLE,"Balya","Saman veya otun sıkıca bağlanarak oluşturulduğu büyük paket.",medium,40
+25,DALLE,"7 kiremit oyunu","Geleneksel bir zemin oyunu; 7 kiremitle oynanan oyun türü.",medium,45
+26,HARIM,"Bahçe","Evin veya yerleşim yerinin çevresinde tarım veya bitki yetiştirilen toprak parçası.",easy,30
+27,PARDI,"Duvar","Bir alanı bölen veya çevreleyen yapı; taş veya toprak duvar.",medium,35
+28,GINDIRA,"İnce kamış","İnce, uzun ve esnek bir bitki gövdesi; kamış.",easy,25
+29,YEMENİ,"Ayakkabı","Ayağı koruyan, genellikle deriden yapılmış dış giyim aracı.",medium,30
+30,BÜLÜÇ,"Civciv","Yeni çıkmış küçük kanatlı kuş; tavuk yavrusu.",easy,15
+31,GULİ,"Hindi","Büyük kümes hayvanı; et ve yumurta üretimi için yetiştirilen tür.",medium,40
+32,İLDAL,"Hayal meyal ikilemesi","Belirsiz veya iki anlamlı durumları ifade eden söz öbeği.",hard,50
+33,HOLUS,"Büyük kalbur","Büyük aralıklı kalbur,eleme aracı",medium,35
+34,GÖYNEK,"Gömlek","Üst giysi; genellikle üst beden için giyilen düğmeli giysi.",easy,20
+35,KOSA,"Tırpan","Ekin biçmek için kullanılan, keskin ağızlı el aleti.",hard,45
+36,BEYGİR,"At","Çekim veya binme için kullanılan büyük ahır hayvanı.",medium,40
+37,GİREĞİ,"Pazartesi","Haftanın ilk iş günü; pazartesi.",easy,15
+38,YALAVAÇ,"Salı","Haftanın ikinci günü; salı.",easy,15
+39,BAZAR,"Çarşamba","Haftanın üçüncü günü; çarşamba.",easy,15
+40,BAZARERTESİ,"Perşembe","Haftanın dördüncü günü; perşembe.",easy,15
+41,DEYNEK,"Pazar/İnce sopa","Kısa, ince sopa; aynı zamanda pazar anlamında kullanımı da var.",medium,30
+42,İLEĞEN,"Leğen","Çamaşır veya yiyecek karıştırmak için kullanılan geniş kap.",easy,20
+43,SEĞELMEK,"Kısılmak","Bir sesin veya ışığın azalması; kısılma eylemi.",medium,25
+44,SEĞİRTMEK,"Koşmak","Hızlı yürümek veya hızlı hareket etmek.",medium,30
+45,TIZIKMAK,"Koşmak","Hızla ilerlemek; koşup kaçmak anlamında kullanılır.",hard,35
+46,BATMA,"Büyük baş yemliği","Büyük baş hayvanların yemlenmesi için kullanılan geniş kap veya yemlik.",medium,30
+47,RENÇBER,"Çiftçi","Tarım yapan kimse; tarlalarını ekip biçen kişi.",medium,40
+48,IRGAT,"Tarım işçisi","Tarım işlerinde çalışan işçi; mevsimlik veya sürekli saha işçisi.",easy,25
+49,TEŞT,"Çamaşır leğeni","Çamaşır yıkamak için kullanılan büyük leğen.",easy,20
+50,HANEK,"Laf","Söz, söylem; günlük konuşmada kullanılan ifade.",easy,15
+51,SOKUM,"Lokma","Küçük ısırık, ağıza atılan bir parça yiyecek; lokma.",easy,20
+52,ÇELEN,"Duvar çıkıntısı","Duvarın, yapının kenarından taşan küçük çıkıntı.",medium,30
+53,BUYMAK,"Üşümek","Soğuğa bağlı olarak vücudun titremesi, üşüme hissi.",easy,15
+54,YUNMAK,"Yıkanmak","Su ile temizlenme eylemi; yıkanmak.",easy,20
+55,MÜRDÜK,"Haşlanmış buğday","Buğdayın haşlanmasıyla elde edilen yemek; bulgur benzeri hazırlık.",medium,35
+56,YUVALAK,"Bulgur köftesi","Bulgurdan yapılan küçük yuvarlak köfteler.",medium,40
+57,SİYIRTMAÇ,"Yeşil fasulye haşlaması","Yeşil fasulyenin haşlanıp servis edilmesiyle hazırlanan yemek.",medium,30
+58,SIĞIRTMAÇ,"İnek çobanı","İnekleri otlatan ve bakımlarını yapan kişi.",medium,35
+59,ÇIKIN,"Küçük bohça","Küçük paket, bohça; eşya taşımada kullanılan küçük çuval.",easy,20
+60,AZIK,"Yolda yenmek için hazırlanan yemek","Seyahat veya yolculuk sırasında yenmek üzere hazırlanan yiyecek.",easy,25
+61,DÖĞER,"Büyük yuvarlak kereste","Geniş, yuvarlak şekilde işlenmiş büyük kereste parçası.",hard,50
