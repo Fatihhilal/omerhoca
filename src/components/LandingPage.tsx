@@ -14,7 +14,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
     return (
         <div className="landing-page">
             <div className="overlay">
-                <h1 className="title">Anadolu Sözcükleri</h1>
+                <h1 className="title">Sözcüklerle Anadolu</h1>
                 <p className="subtitle">Geçmişten Günümüze Bir Yolculuk</p>
 
                 <div className="settings-container">
