@@ -30,6 +30,9 @@ EXPOSE 8080
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
 
+# Install curl for health check
+RUN apk add --no-cache curl
+
 # Health Check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-    CMD wget -qO- http://localhost:8080/ || exit 1
+    CMD curl -f http://127.0.0.1:8080/ || exit 1
